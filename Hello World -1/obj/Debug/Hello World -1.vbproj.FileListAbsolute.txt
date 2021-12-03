@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello World -1\Hello World -1\bin\Debug\Hello World -1.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello World -1\Hello World -1\bin\Debug\Hello World -1.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello World -1\Hello World -1\obj\Debug\Hello World -1.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello World -1\Hello World -1\obj\Debug\Hello World -1.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Hello World -1\Hello World -1\obj\Debug\Hello World -1.pdb
